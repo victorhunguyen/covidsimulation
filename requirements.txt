@@ -8,6 +8,6 @@ plotly
 pytest
 python-dateutil; python_version < '3.7'
 scipy
-simpy
+simpy==4.0.1
 smart_open
 tqdm
