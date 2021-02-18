@@ -9,5 +9,5 @@ pytest
 python-dateutil; python_version < '3.7'
 scipy
 simpy
-smart_open
+smart_open==4.2.0
 tqdm
