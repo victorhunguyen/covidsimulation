@@ -1,4 +1,4 @@
-Cython==0.29.16
+Cython==0.29.22
 dataclasses; python_version < '3.7'
 ipywidgets
 matplotlib
