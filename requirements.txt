@@ -3,7 +3,7 @@ dataclasses; python_version < '3.7'
 ipywidgets
 matplotlib
 numpy
-pandas
+pandas==1.2.4
 plotly
 pytest
 python-dateutil; python_version < '3.7'
