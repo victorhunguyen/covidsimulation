@@ -7,7 +7,7 @@ pandas
 plotly
 pytest
 python-dateutil; python_version < '3.7'
-scipy
+scipy==1.7.0
 simpy
 smart_open
 tqdm
