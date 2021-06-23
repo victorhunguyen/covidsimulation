@@ -2,7 +2,7 @@ Cython==0.29.16
 dataclasses; python_version < '3.7'
 ipywidgets
 matplotlib
-numpy
+numpy==1.21.0
 pandas
 plotly
 pytest
