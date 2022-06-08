@@ -4,7 +4,7 @@ ipywidgets
 matplotlib
 numpy
 pandas
-plotly
+plotly==5.8.1
 pytest
 python-dateutil; python_version < '3.7'
 scipy
