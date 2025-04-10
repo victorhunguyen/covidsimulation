@@ -1,6 +1,6 @@
 Cython==0.29.16
 dataclasses; python_version < '3.7'
-ipywidgets
+ipywidgets==8.1.6
 matplotlib
 numpy
 pandas
